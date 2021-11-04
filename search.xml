@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title></title>
+      <link href="/blog/2021/11/04/wenzhang/"/>
+      <url>/blog/2021/11/04/wenzhang/</url>
+      
+        <content type="html"><![CDATA[<hr><p>title:哈喽哇<br>tages:标签<br>categories：发布</p><hr><p>发布文章一定要进入到/home/hexo/source/_postsx下存放；<br>后缀名一定要是.md</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/blog/2021/08/26/hello-world/"/>
       <url>/blog/2021/08/26/hello-world/</url>
